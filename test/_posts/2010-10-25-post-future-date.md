@@ -5,4 +5,9 @@ categories:
   - Post
 ---
 
-This post lives in the future and is dated {{ page.date | date: "%c" }}. When building Jekyll with the `--future` flag it should appear.
+This post live테스트 폴더안ear.
+
+```
+sdsd
+```
+

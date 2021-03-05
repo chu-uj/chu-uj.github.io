@@ -5,4 +5,9 @@ categories:
   - Post
 ---
 
-This post lives in the future and is dated {{ page.date | date: "%c" }}. When building Jekyll with the `--future` flag it should appear.
+This바깥 포스트 post lives in the future and is dated {{ page.date | date: "%c" }}. When building Jekyll with the `--future` flag it should appear.
+
+```
+sdsd
+```
+
