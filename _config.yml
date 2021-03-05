@@ -27,7 +27,7 @@ analytics: # Google Analytics
 
 # Build Settings
 markdown: kramdown
-highlightjs_theme: "flexible-jekyll"
+highlightjs_theme: "artemsheludko/flexible-jekyll"
 plugins:
   - jekyll-sitemap
   - jekyll-paginate
