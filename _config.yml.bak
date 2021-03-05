@@ -7,6 +7,7 @@ permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://chu-uj.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
+remote_theme: artemsheludko/flexible-jekyll
 
 # Author Settings
 author: Yu jung Chu # add your name
