@@ -21,7 +21,7 @@ baseurl                  : ""
 repository               : "chu-uj/chu-uj.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/88x88.png"
-masthead_title           : #"Code with Chu"
+masthead_title           : "Code with Chu"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -91,13 +91,13 @@ analytics:
 author:
   name             : "Chu Yu"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "코딩 공부 기록하는 중-"
+  bio              : "**amazing** person."
   location         : "Soeul, Korea"
   email            : yujung.chu1@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:yujung.chu1@gmail.com"
+      # url: "mailto:yujung.chu1@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
