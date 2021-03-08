@@ -2,7 +2,7 @@
 title: "Edge Case: Many Categories"
 
 categories:
-  - aciform
+  - java
   - antiquarianism
   - arrangement
   - asmodeus
