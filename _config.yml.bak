@@ -20,8 +20,8 @@ url                      : "https://chu-uj.github.io"
 baseurl                  : ""
 repository               : "chu-uj/chu-uj.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+logo                     : "/assets/images/88x88.png"
+masthead_title           : "Code with Chu"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -47,9 +47,9 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
-search                   : # true, false (default)
+search                   : true
 search_full_content      : # true, false (default)
-search_provider          : # lunr (default), algolia, google
+search_provider          : # google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
@@ -89,15 +89,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chu Yu Jung"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  name             : "Chu Yu"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "코딩 공부 기록하는 중-"
   location         : "Soeul, Korea"
   email            : yujung.chu1@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:yujung.chu1@gmail.com"
+       url: "mailto:yujung.chu1@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -271,7 +271,9 @@ defaults:
     values:
       layout: single
       author_profile: true
+      show_date: true
       read_time: true
       comments: # true
       share: true
       related: true
+
