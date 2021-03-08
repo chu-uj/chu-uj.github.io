@@ -1,8 +1,11 @@
 # main links
 main:
 
-   - title: "Sample Posts"
-     url: /year-archive/
+   - title: "Posts"
+     url: /posts/
+     children:
+	- title: "Java"
+	  url: /java/
    - title: "Sample Collections"
      url: /collection-archive/
    - title: "Sitemap"

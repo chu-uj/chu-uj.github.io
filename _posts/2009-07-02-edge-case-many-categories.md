@@ -1,6 +1,6 @@
 ---
 title: "Edge Case: Many Categories"
-side bar : nav : "posts"
+
 categories:
   - aciform
   - antiquarianism
