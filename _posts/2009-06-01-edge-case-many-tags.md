@@ -2,7 +2,7 @@
 title: "Edge Case: Many Tags"
 
 categories:
-  - Edge Case
+  - Java
 tags:
   - 8BIT
   - alignment
