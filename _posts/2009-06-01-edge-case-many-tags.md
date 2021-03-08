@@ -1,5 +1,6 @@
 ---
 title: "Edge Case: Many Tags"
+side bar : nav : "posts/java"
 categories:
   - Edge Case
 tags:
