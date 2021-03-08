@@ -94,8 +94,8 @@ author:
   bio              : "I am an **amazing** person."
   location         : "Soeul, Korea"
   email            : yujung.chu1@gmail.com
-  github           : https://github.com/chu-uj
-  instagram        : https://instagram.com/
+  github           : chu-uj
+  instagram        : ""
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -111,7 +111,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/chu-uj"
+      # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
