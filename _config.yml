@@ -91,13 +91,13 @@ analytics:
 author:
   name             : "Chu Yu Jung"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Learning how to code"
   location         : "Soeul, Korea"
   email            : yujung.chu1@gmail.com
   github           : chu-uj
   instagram        : ""
   links:
-    - label: "Email"
+    - label: "yujung.chu1@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:yujung.chu1@gmail.com"
     - label: "Website"

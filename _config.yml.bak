@@ -91,7 +91,7 @@ analytics:
 author:
   name             : "Chu Yu Jung"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Learning how to code"
   location         : "Soeul, Korea"
   email            : yujung.chu1@gmail.com
   github           : chu-uj
@@ -278,4 +278,6 @@ defaults:
       comments: # true
       share: true
       related: true
+      mathjax: true
+      sidebar_main: true
 
